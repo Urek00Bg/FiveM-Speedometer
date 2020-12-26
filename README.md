@@ -2,7 +2,7 @@
 
 <h3> How to set-up the Speedometer? </h3>
 
-Go to your FiveM server directory --> Server-data-master --> Resources --> Drag and drop the "Speedometer" folder
+Go to your FiveM server directory --> Server-data-master --> Resources --> Drag and drop the "Speedometer folder" 
 
 Go back to your "Server-data-master" and open your "Resources.cfg" and type this ***start speedometer***
 
