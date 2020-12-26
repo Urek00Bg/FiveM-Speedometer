@@ -9,7 +9,9 @@ Go back to your "Server-data-master" and open your "Resources.cfg" and type this
 <h3>How to create a ***Resources.cfg*** text documentr</h3>
 
 1.Go to your **server-data-master** and create a text document called ***resources.cfg***
+
 2.Open the document with VS Code/Notepad/Notepad++ etc (Also open the Server.cfg)
+
 3.Copy the resources from the #These resources will start by default section and replace them with ***" exec resources.cfg "***
 
 <h3>Last step</h3>
