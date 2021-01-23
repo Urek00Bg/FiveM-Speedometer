@@ -1,0 +1,2 @@
+su csgoserver
+17042005
